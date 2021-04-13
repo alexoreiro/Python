@@ -1,0 +1,1 @@
+This is a two player game where the first player inputs a word, and the second player repeatedly guesses letter by letter. Code includes visuals as well.
