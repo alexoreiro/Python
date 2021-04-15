@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Ask the user to unput 2 values and store them in variables num1 and num2
 num1, num2 = input('Enter 2 numbers: ').split()
 

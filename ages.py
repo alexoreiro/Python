@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Enter your age
 
 age = eval(input('What is your age? '))

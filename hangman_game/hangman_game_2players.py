@@ -12,7 +12,7 @@ def hangman():
 
 def start_game(word):
     player_lives = 6
-    used_letters =[]
+    used_letters = []
     number_dashes=["_" for i in range(len(word))]
 
     print(visuals(player_lives))
